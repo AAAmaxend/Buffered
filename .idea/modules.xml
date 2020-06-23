@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Buffered.iml" filepath="$PROJECT_DIR$/Buffered.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/JavaBase.iml" filepath="$PROJECT_DIR$/JavaBase/JavaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_01/Module_01.iml" filepath="$PROJECT_DIR$/Module_01/Module_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing GUI/Swing GUI.iml" filepath="$PROJECT_DIR$/Swing GUI/Swing GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZhuXianCheng/ZhuXianCheng.iml" filepath="$PROJECT_DIR$/ZhuXianCheng/ZhuXianCheng.iml" />
+    </modules>
+  </component>
+</project>
